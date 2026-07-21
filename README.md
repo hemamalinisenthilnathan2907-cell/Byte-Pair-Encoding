@@ -1,4 +1,4 @@
-##Project Overview
+## Project Overview
 
 The project consists of:
 
@@ -11,7 +11,7 @@ The project consists of:
 The implementation is written entirely in Python using NumPy, making it easy to understand the fundamentals of language models without relying on deep learning frameworks.
 
 
-##Project Structure
+## Project Structure
 
 -Byte Pair Encoding.ipynb      
 -Autoregressive.ipynb          
